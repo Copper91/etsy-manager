@@ -7,4 +7,4 @@ A Claude Code agent (`.claude/agents/etsy-manager.md`) that helps run an Etsy sh
 2. Export CSVs from Etsy Shop Manager (Settings > Options > Download Data) into `data/`.
 3. Open a Claude Code session on this repo and ask, e.g. "Use etsy-manager to review last month's sales".
 
-Reports are saved to `reports/`. Keep this repo **private** — it contains sales data.
+Listing drafts are saved to `listings/`, reports to `reports/`. With the Etsy connector authorized (AnythingMCP), the agent can read the shop and create draft listings (always with your approval). Keep this repo **private** — it contains sales data.
