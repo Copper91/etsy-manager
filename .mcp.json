@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "etsy": {
+      "command": "node",
+      "args": ["/opt/etsy-mcp-server/build/index.js"],
+      "env": {
+        "ETSY_API_KEY": "${ETSY_API_KEY}",
+        "ETSY_SHARED_SECRET": "${ETSY_SHARED_SECRET}",
+        "ETSY_REFRESH_TOKEN": "${ETSY_REFRESH_TOKEN}"
+      }
+    }
+  }
+}
