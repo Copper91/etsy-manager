@@ -32,7 +32,7 @@ Offsite Ads (15% if a sale comes from an Etsy ad elsewhere) would take another ~
 
 ## Description
 ```
-Thanksgiving coloring pages full of cute turkeys, woodland and farm animals, pumpkins and fall leaves. Download instantly, print as many copies as you need, and keep kids happily busy at the Thanksgiving table, in the classroom or on a cozy fall night.
+Thanksgiving coloring pages full of cute turkeys, forest and farm animals, pumpkins and fall leaves. Download instantly, print as many copies as you need, and keep kids happily busy at the Thanksgiving table, in the classroom or on a cozy fall night.
 
 WHAT'S INCLUDED
 • 6 coloring pages in one PDF
@@ -41,7 +41,7 @@ WHAT'S INCLUDED
 • Bold, simple outlines for little ones, plus detailed scenes for older kids and adults
 
 THE 6 PAGES
-• Woodland Thanksgiving scene with turkey, owl, fox, hedgehog and squirrel
+• Happy Thanksgiving forest scene with turkey, owl, fox, hedgehog and squirrel
 • Turkey in a pilgrim hat with pumpkins
 • Baby deer and bunny at the farm
 • Fox playing in fall leaves
@@ -68,7 +68,7 @@ PLEASE NOTE
 
 Happy Thanksgiving! 🦃🍂
 ```
-**Fix:** the old description said the pages were all "Woodland Animals" while the title said "Turkey & Fall Harvest", and "A mix of simple designs for little ones" was unfinished. The new version names exactly what's in the pack. **Check the "THE 6 PAGES" list against your PDF** — I wrote it from your photos.
+**Fix:** the old description and title described the pack differently, and "A mix of simple designs for little ones" was unfinished. The new version names exactly what's in the pack. **Check the "THE 6 PAGES" list against your PDF** — I wrote it from your photos.
 
 **AI disclosure:** if any of these designs were made with AI tools, Etsy's policy requires saying so. Replace the placeholder with e.g. "Designed by me using AI tools." and set the matching option in the listing's Creativity section. If they're fully hand-drawn, just delete the placeholder.
 
@@ -81,7 +81,7 @@ Your hero (colored mockup with pencils) is good — keep it first. Add:
 
 Add **alt text** to every photo (all 7 are blank), e.g.:
 1. Colored Thanksgiving woodland scene with turkey, owl and hedgehog, printable coloring page
-2. Black and white Thanksgiving woodland animals coloring page with Happy Thanksgiving sign
+2. Black and white Thanksgiving forest animals coloring page with Happy Thanksgiving sign
 3. Cute turkey in pilgrim hat coloring page with pumpkins
 4. Fox playing in fall leaves coloring page for kids
 5. Baby deer and bunny at a farm with pumpkins coloring page
