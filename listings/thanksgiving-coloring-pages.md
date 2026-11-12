@@ -46,7 +46,7 @@ THE 6 PAGES
 • Baby deer and bunny at the farm
 • Fox playing in fall leaves
 • Harvest wagon full of pumpkins and corn
-• Fox, raccoon and goats in their fall scarves
+• Mama and baby goat in their fall scarves at the farm
 
 PERFECT FOR
 • Keeping kids entertained while dinner cooks
@@ -72,21 +72,22 @@ Happy Thanksgiving! 🦃🍂
 
 **AI disclosure:** if any of these designs were made with AI tools, Etsy's policy requires saying so. Replace the placeholder with e.g. "Designed by me using AI tools." and set the matching option in the listing's Creativity section. If they're fully hand-drawn, just delete the placeholder.
 
-## Photos (you have 7; Etsy allows 20 + a video)
-Your hero (colored mockup with pencils) is good — keep it first. Add:
-1. **Image 2: all 6 pages in one grid** with text "6 PAGES • INSTANT DOWNLOAD • US LETTER". Buyers decide fast; show the whole pack at once.
-2. **"What you get" image:** PDF icon + "Print as many as you like".
-3. **Lifestyle shot:** a page on a Thanksgiving table with crayons.
-4. **Short video (5–15 s):** flip through the 6 pages. Listings with video get extra visibility.
+## Photos — replace your current photos with these (in `listings/thanksgiving/`), in this order
+| # | File | Alt text |
+|---|---|---|
+| 1 | 01-hero-all-6-pages.jpg | Thanksgiving coloring pages printable pack with turkey, forest animals, deer, fox, harvest wagon and goats |
+| 2 | 02-whats-included.jpg | What you get: 6 printable Thanksgiving coloring pages in a US Letter PDF |
+| 3 | page-turkey.jpg | Cute turkey in a pilgrim hat with pumpkins coloring page |
+| 4 | page-woodland-scene.jpg | Happy Thanksgiving forest scene with turkey, owl, fox, hedgehog and squirrel coloring page |
+| 5 | page-deer-and-bunny.jpg | Baby deer and bunny at the farm coloring page |
+| 6 | page-fox-in-leaves.jpg | Fox playing in fall leaves coloring page for kids |
+| 7 | page-harvest-wagon.jpg | Harvest wagon full of pumpkins and corn coloring page |
+| 8 | page-goats.jpg | Mama and baby goat in fall scarves coloring page |
+| 9 | 03-how-to-download.jpg | How to download and print your Etsy digital coloring pages |
 
-Add **alt text** to every photo (all 7 are blank), e.g.:
-1. Colored Thanksgiving woodland scene with turkey, owl and hedgehog, printable coloring page
-2. Black and white Thanksgiving forest animals coloring page with Happy Thanksgiving sign
-3. Cute turkey in pilgrim hat coloring page with pumpkins
-4. Fox playing in fall leaves coloring page for kids
-5. Baby deer and bunny at a farm with pumpkins coloring page
-6. Harvest wagon with pumpkins and corn coloring page
-7. Fox, raccoon and goats in fall scarves coloring pages
+Keep your current colored mockup (pencils photo) too if you like it: it works well as photo 2.
+**Video:** upload `listings/thanksgiving/video/thanksgiving-coloring-pages.mp4` (square, 15 s).
+**Digital file:** replace the old PDF with `Thanksgiving-Coloring-Pages-HODDownloads.pdf` (6 pages, US Letter 8.5 x 11 in, 300 DPI).
 
 ## Other quick wins
 - **Shop section:** create "Holiday Coloring Pages" and put this listing in it.
